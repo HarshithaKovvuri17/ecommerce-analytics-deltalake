@@ -254,3 +254,5 @@ Pipeline finished successfully
 * Delta tables stored on MinIO via S3A protocol.
 * Fully automated pipeline execution.
 * Designed for reproducible deployment and evaluation.
+
+## 📞Contact
