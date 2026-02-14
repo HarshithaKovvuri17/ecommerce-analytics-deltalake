@@ -259,3 +259,4 @@ Pipeline finished successfully
 ------------------------------------
 Name   : Kovvuri Harshitha
 Email  : harshitahanisha@email.com
+GitHub Repo: https://github.com/HarshithaKovvuri17/ecommerce-analytics-deltalake.git
